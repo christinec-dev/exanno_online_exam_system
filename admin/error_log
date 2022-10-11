@@ -1,0 +1,18 @@
+[03-Oct-2022 12:58:27 Africa/Harare] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/erzpbaqo/public_html/reusables/header.php:1) in /home/erzpbaqo/public_html/admin/login.php on line 61
+[03-Oct-2022 12:58:51 Africa/Harare] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/erzpbaqo/public_html/reusables/header.php:1) in /home/erzpbaqo/public_html/admin/login.php on line 61
+[03-Oct-2022 12:59:45 Africa/Harare] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/erzpbaqo/public_html/reusables/header.php:1) in /home/erzpbaqo/public_html/admin/login.php on line 61
+[03-Oct-2022 13:01:18 Africa/Harare] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/erzpbaqo/public_html/reusables/header.php:1) in /home/erzpbaqo/public_html/admin/login.php on line 61
+[03-Oct-2022 13:02:03 Africa/Harare] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/erzpbaqo/public_html/reusables/header.php:1) in /home/erzpbaqo/public_html/admin/login.php on line 61
+[03-Oct-2022 13:02:57 Africa/Harare] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/erzpbaqo/public_html/reusables/header.php:1) in /home/erzpbaqo/public_html/admin/login.php on line 63
+[03-Oct-2022 13:03:57 Africa/Harare] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/erzpbaqo/public_html/reusables/header.php:1) in /home/erzpbaqo/public_html/admin/login.php on line 69
+[03-Oct-2022 13:06:22 Africa/Harare] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/erzpbaqo/public_html/reusables/header.php:1) in /home/erzpbaqo/public_html/admin/login.php on line 61
+[10-Oct-2022 11:55:41 Africa/Harare] PHP Parse error:  syntax error, unexpected 'summary_id' (T_STRING) in /home/erzpbaqo/public_html/admin/pages/update_results.php on line 70
+[10-Oct-2022 11:55:45 Africa/Harare] PHP Parse error:  syntax error, unexpected 'summary_id' (T_STRING) in /home/erzpbaqo/public_html/admin/pages/update_results.php on line 70
+[10-Oct-2022 17:30:11 Africa/Harare] PHP Parse error:  syntax error, unexpected end of file in /home/erzpbaqo/public_html/admin/pages/add_admin.php on line 139
+[10-Oct-2022 17:31:14 Africa/Harare] PHP Parse error:  syntax error, unexpected end of file in /home/erzpbaqo/public_html/admin/pages/add_admin.php on line 137
+[10-Oct-2022 17:31:15 Africa/Harare] PHP Parse error:  syntax error, unexpected end of file in /home/erzpbaqo/public_html/admin/pages/add_admin.php on line 137
+[10-Oct-2022 17:31:15 Africa/Harare] PHP Parse error:  syntax error, unexpected end of file in /home/erzpbaqo/public_html/admin/pages/add_admin.php on line 137
+[10-Oct-2022 17:32:05 Africa/Harare] PHP Parse error:  syntax error, unexpected end of file in /home/erzpbaqo/public_html/admin/pages/add_admin.php on line 137
+[10-Oct-2022 17:32:06 Africa/Harare] PHP Parse error:  syntax error, unexpected end of file in /home/erzpbaqo/public_html/admin/pages/add_admin.php on line 137
+[10-Oct-2022 17:32:06 Africa/Harare] PHP Parse error:  syntax error, unexpected end of file in /home/erzpbaqo/public_html/admin/pages/add_admin.php on line 137
+[10-Oct-2022 17:32:07 Africa/Harare] PHP Parse error:  syntax error, unexpected end of file in /home/erzpbaqo/public_html/admin/pages/add_admin.php on line 137

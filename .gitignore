@@ -1,0 +1,3 @@
+## code for .gitignore ##
+## so that app credentials are not sent to GitHub
+**/admin/config/credentials.php

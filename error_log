@@ -1,0 +1,273 @@
+[10-Oct-2022 09:17:57 Africa/Harare] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Functions::sanitize(), 1 passed in /home/erzpbaqo/public_html/student/reset.php on line 37 and exactly 2 expected in /home/erzpbaqo/public_html/admin/config/functions.php:15
+Stack trace:
+#0 /home/erzpbaqo/public_html/student/reset.php(37): Functions->sanitize('723e1489a45d2cb...')
+#1 /home/erzpbaqo/public_html/student/redirect.php(70): include('/home/erzpbaqo/...')
+#2 /home/erzpbaqo/public_html/index.php(6): include('/home/erzpbaqo/...')
+#3 {main}
+  thrown in /home/erzpbaqo/public_html/admin/config/functions.php on line 15
+[10-Oct-2022 09:19:21 Africa/Harare] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Functions::sanitize(), 1 passed in /home/erzpbaqo/public_html/student/reset.php on line 37 and exactly 2 expected in /home/erzpbaqo/public_html/admin/config/functions.php:15
+Stack trace:
+#0 /home/erzpbaqo/public_html/student/reset.php(37): Functions->sanitize('723e1489a45d2cb...')
+#1 /home/erzpbaqo/public_html/student/redirect.php(70): include('/home/erzpbaqo/...')
+#2 /home/erzpbaqo/public_html/index.php(6): include('/home/erzpbaqo/...')
+#3 {main}
+  thrown in /home/erzpbaqo/public_html/admin/config/functions.php on line 15
+[10-Oct-2022 09:19:27 Africa/Harare] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Functions::sanitize(), 1 passed in /home/erzpbaqo/public_html/student/reset.php on line 37 and exactly 2 expected in /home/erzpbaqo/public_html/admin/config/functions.php:15
+Stack trace:
+#0 /home/erzpbaqo/public_html/student/reset.php(37): Functions->sanitize('723e1489a45d2cb...')
+#1 /home/erzpbaqo/public_html/student/redirect.php(70): include('/home/erzpbaqo/...')
+#2 /home/erzpbaqo/public_html/index.php(6): include('/home/erzpbaqo/...')
+#3 {main}
+  thrown in /home/erzpbaqo/public_html/admin/config/functions.php on line 15
+[10-Oct-2022 11:03:18 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:03:18 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:03:18 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:04:52 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:04:52 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:04:52 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:04:55 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:04:55 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:04:55 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:04:58 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:04:58 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:04:58 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:02 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:02 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:02 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:13 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:13 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:13 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:16 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:16 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:16 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:19 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:19 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:19 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:21 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:21 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:05:21 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:21 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:21 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:21 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:29 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:29 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:29 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:31 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:31 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:31 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:34 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:34 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:34 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:38 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:38 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:38 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:40 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:40 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:40 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:42 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:42 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:42 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:44 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:44 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:44 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:45 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:45 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:45 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:47 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:47 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:07:47 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:09:41 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:09:41 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:09:41 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:09:43 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:09:43 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:09:43 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:23 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:23 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:23 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:25 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:25 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:25 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:28 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:28 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:28 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:12:33 Africa/Harare] PHP Warning:  Division by zero in /home/erzpbaqo/public_html/student/endSession5.php on line 22
+[10-Oct-2022 11:13:43 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:43 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:43 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:45 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:45 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:45 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:55 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:55 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:55 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:58 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:58 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:13:58 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 233
+[10-Oct-2022 11:15:20 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 261
+[10-Oct-2022 11:15:20 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 261
+[10-Oct-2022 11:15:20 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 261
+[10-Oct-2022 11:15:30 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 261
+[10-Oct-2022 11:15:30 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 261
+[10-Oct-2022 11:15:30 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 261
+[10-Oct-2022 11:15:33 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 261
+[10-Oct-2022 11:15:33 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 261
+[10-Oct-2022 11:15:33 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 261
+[10-Oct-2022 11:18:43 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:18:43 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:18:43 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:19:40 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:19:40 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:19:40 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:19:42 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:19:42 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:19:42 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:23:03 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:23:03 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:23:03 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:23:06 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:23:06 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:23:06 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:25:53 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:25:53 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:25:53 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:25:56 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:25:56 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:25:56 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:25:58 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:25:58 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:25:58 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:26:01 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:26:01 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:26:01 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:26:47 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:26:47 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:26:47 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:26:49 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:26:49 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:26:49 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:16 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:16 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:16 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:26 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:26 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:26 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:32 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:32 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:32 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:35 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:35 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:27:35 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:10 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:10 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:10 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:13 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:13 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:13 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:15 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:15 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:15 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:37 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:37 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:37 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:39 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:39 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:39 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:42 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:42 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:30:42 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:31:43 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:31:43 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:31:43 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:31:46 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:31:46 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:31:46 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:33:25 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:33:25 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:33:25 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:33:26 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:33:26 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:33:26 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:33:29 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:33:29 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:33:29 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 235
+[10-Oct-2022 11:35:15 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:15 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:15 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:17 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:17 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:17 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:19 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:19 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:19 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:22 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:22 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:22 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:25 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:25 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:35:25 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:21 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:21 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:21 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:27 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:27 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:27 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:29 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:29 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:29 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:31 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:31 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:31 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:33 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:33 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 11:36:33 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:17 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:17 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:17 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:20 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:20 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:20 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:23 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:23 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:23 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:25 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:25 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:25 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:28 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:28 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 15:11:28 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question5.php on line 236
+[10-Oct-2022 16:12:18 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:18 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:18 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:20 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:20 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:20 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:22 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:22 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:22 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:24 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:24 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:24 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:26 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:26 Africa/Harare] PHP Warning:  include(pages/timeCheck.php): failed to open stream: No such file or directory in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 16:12:26 Africa/Harare] PHP Warning:  include(): Failed opening 'pages/timeCheck.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/erzpbaqo/public_html/student/question.php on line 248
+[10-Oct-2022 17:18:14 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:19:03 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:19:04 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:19:06 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:19:18 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:19:26 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:19:34 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:19:36 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:20:12 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:20:12 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:20:13 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:20:14 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:20:41 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:20:41 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:20:42 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:20:43 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:21:27 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:21:43 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:21:43 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
+[10-Oct-2022 17:21:43 Africa/Harare] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/erzpbaqo/public_html/student/settings.php on line 214
