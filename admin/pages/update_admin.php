@@ -29,7 +29,6 @@
         header('location:'.SITEURL.'admin/index.php?page=admins');
     }
 ?>
-
 <div class="main">
     <div class="content">
         <div class="report">
@@ -59,7 +58,7 @@
                 <input type="text" name="username" value="<?php echo $username; ?>" required="true" /><br />
                 
                 <span class="name">Password</span>
-                <input type="text" name="password" value="<?php echo $password; ?>" required="true" /><br />
+                <input type="password" name="password" value="<?php echo $password; ?>" required="true" /><br />
                 
                 <span class="name">Contact</span>
                 <input type="tel" name="contact" value="<?php echo $contact; ?>" /><br />
@@ -67,7 +66,6 @@
                 
                 <span class="name">Admin Image</span>
                 <input type="file" name="image" /><br />
-
                 <input type="submit" name="submit" value="UPDATE " class="btn-add" style="margin-left: 15%;" />
                 <a href="<?php echo SITEURL; ?>admin/index.php?page=admins"><button type="button" class="btn-delete">CANCEL</button></a>
             </form>

@@ -32,7 +32,6 @@
         header('location:'.SITEURL.'admin/index.php?page=students');
     }
 ?>
-
 <div class="main">
     <div class="content">
         <div class="report">
@@ -65,7 +64,7 @@
                 <input type="text" name="username" value="<?php echo $username; ?>" required="true" /><br />
                 
                 <span class="name">Password</span>
-                <input type="text" name="password" value="<?php echo $password; ?>" required="true" /><br />
+                <input type="password" name="password" value="<?php echo $password; ?>" required="true" /><br />
                 
                 <span class="name">Contact</span>
                 <input type="tel" name="contact" value="<?php echo $contact; ?>" /><br />
