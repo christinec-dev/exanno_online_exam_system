@@ -56,9 +56,9 @@
             Start Time: <span class="heavy"><?php echo $_SESSION['strt_time']; ?></span>&nbsp;&nbsp;
             End Time: <span class="heavy"><?php echo $_SESSION['end_time']; ?></span>&nbsp;&nbsp;
             <?php 
-                $startTime=strtotime($_SESSION['end_time']);
+                $endTime=strtotime($_SESSION['end_time']);
                 $currentTime=strtotime(date('h:i:s A'));
-                $timeDifference=$startTime-$currentTime;
+                $timeDifference=$endTime-$currentTime;
             ?>
             <span class="timer" data-seconds-left=<?php echo $timeDifference; ?>></span>
             <form method="post" action="">

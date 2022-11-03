@@ -59,9 +59,9 @@
             End Time: <span class="heavy"><?php echo $_SESSION['end_time']; ?></span>&nbsp;&nbsp;
             <?php 
                 //Getting Time Difference of exam start and end
-                $startTime=strtotime($_SESSION['end_time']);
+                $endTime=strtotime($_SESSION['end_time']);
                 $currentTime=strtotime(date('h:i:s A'));
-                $timeDifference=$startTime-$currentTime;
+                $timeDifference=$endTime-$currentTime;
                 
             ?>
             <!--Starts timer-->
