@@ -2,14 +2,15 @@
 Online Examination System developed for a Higher Educational Institute as part of my final year CS project.
 
 #### *To use this, create a credentials.php file to connect to your db in the admin/config folder, something like this:
-<?php 
-	// default credentials for the database access - file provides reusability without redefining these credentials
+```
+<?php
     define('SITEURL', ''); 
     define('LOCALHOST','');
     define('USERNAME','root');
     define('PASSWORD','');
     define('DBNAME','');
  ?>
+ ```
 
 ## Technologies Used
 1. Front-End (HTML5, CSS3, JS)
