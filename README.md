@@ -1,6 +1,8 @@
 # Exanno Online Examination System Backups
 Online Examination System developed for a Higher Educational Institute as part of my final year CS project.
 
+** To use this, create a credentials file to connect to your db in the admin/config folder
+
 ## Technologies Used
 1. Front-End (HTML5, CSS3, JS)
 2. Backend (PHP - OOP)
