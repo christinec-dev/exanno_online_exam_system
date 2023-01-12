@@ -1,5 +1,5 @@
 # Exanno Online Examination System
-Online Examination System developed for a Higher Educational Institute as part of my final year CS project.
+Online Examination System developed for a Higher Educational Institute as part of my final year CS project. This project can be used but creditation is required.
 
 #### *To use this, create a credentials.php file to connect to your db in the admin/config folder, something like this:
 ```
